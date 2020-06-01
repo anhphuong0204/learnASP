@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\bin\Debug\LinqExercise.exe.config
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\bin\Debug\LinqExercise.exe
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\bin\Debug\LinqExercise.pdb
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\obj\Debug\LinqExercise.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\obj\Debug\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\obj\Debug\LinqExercise.exe
+C:\Users\ASUS\Desktop\ASP.NET\LinqExercise\LinqExercise\obj\Debug\LinqExercise.pdb
